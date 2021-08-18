@@ -1,7 +1,7 @@
 # University of Rochester Biomedical Data Science Hackathon Summer 2021
 
 **Data are now live.  Good luck!**
-<!-- [**Scoreboard**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2021/Leaderboard.html) -->
+[**Scoreboard**](https://rochester-biomedical-ds.github.io/Hackathon-Summer-2021/Leaderboard.html)
 
 
 # Logistics
